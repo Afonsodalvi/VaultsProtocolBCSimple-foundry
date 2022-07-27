@@ -1,6 +1,6 @@
 {
-  "name": "tamplate-hardhat-foundry-truffle",
-  "description": "template com diversos frameworks para usar em qualquer projeto",
+  "name": "projeto vaultsprotocol - foundry BACEN",
+  "description": "Projeto de referência: https://vaults-protocol.netlify.app",
   "version": "1.0.0",
   "author": {
     "name": "Omnes Blockchain - Afonso Dalvi",
